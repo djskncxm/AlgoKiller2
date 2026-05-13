@@ -1,3 +1,7 @@
+# 说明
+此项目托生于项目，在此感谢业界大佬对于开源逆向的贡献 https://github.com/lidongyooo/AlgoKiller
+
+
 # AlgoKiller
 
 面向 ARM64 执行 trace 的算法还原 harness。给定一段 GB 级 trace 日志和一个目标（密文、字段、调用链……），驱动 LLM 通过受约束的工具调用自主搜索证据、追踪数据流、还原算法，最终交付可执行 Python 代码或结构化分析报告。

@@ -12,6 +12,8 @@ __pycache__/
 .ruff_cache/
 .coverage
 htmlcov/
+pyproject.toml
+uv.lock
 
 # IDE/editor local state
 .idea/
